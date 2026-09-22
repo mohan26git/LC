@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mohan26git/LC/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/mohan26git/LC/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mohan26git/LC/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/mohan26git/LC/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -17,4 +19,5 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mohan26git/LC/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/mohan26git/LC/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
